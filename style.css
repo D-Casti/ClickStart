@@ -1,0 +1,21 @@
+h2 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: palevioletred;
+    text-decoration: underline;
+}
+
+img {
+    display: block;
+    margin-left: 70%;
+    margin-right: auto;
+    width: 30%;
+
+}
+
+p {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+body {
+    background-color: antiquewhite;
+}
